@@ -1,0 +1,14 @@
+Comonado de como automatizar o codigo no Linux(Nano), segue codigo :
+
+Tornar o arquivo executável:        
+                                     
+chmod 754 calculadora.sh            
+-------------------------------------
+Verificar as permissões:           
+                                     
+ls -l calculadora.sh                
+-------------------------------------
+Executar o script:                   
+                                     
+./calculadora.sh                     
+-------------------------------------
